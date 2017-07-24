@@ -1,0 +1,14 @@
+STANDING.REACH: -
+Outliers identified: 2 
+nPropotion (%) of outliers: 0.2 
+nMean of the outliers: 81.5 
+nMean without removing outliers: 102.15 
+nMean if we remove outliers: 102.2 n
+
+
+CLOSE_DEF_DIST: -
+Outliers identified: 24 
+nPropotion (%) of outliers: 2.8 
+nMean of the outliers: 14.14 
+nMean without removing outliers: 4.16 
+nMean if we remove outliers: 3.88 n
